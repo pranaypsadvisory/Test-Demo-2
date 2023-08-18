@@ -1,10 +1,9 @@
 package javaprogramms1;
 
 public class AccountTodayClass {
-*******//25/7/2023!!!!!!!!!!!!*****'''''
-//1212
 
-//java programms222
+
+
 // Learning to merge
 	int account_number;
 	float account_balance;
