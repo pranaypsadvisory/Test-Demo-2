@@ -1,7 +1,7 @@
 package javaprogramms1;
 
 import java.util.Scanner;
-//java programms1111
+
 public class DemoClass11 {
 
 /*	public static void main(String[] args) {
